@@ -74,16 +74,16 @@ This project was developed as a semester project for **Data Structures** (CS2001
 ## Screenshots
 
 ### Main Menu
-![Main Menu](docs/main_menu.PNG)
+![Main Menu](doc/main_menu.PNG)
 
 ### Main Flight Graph (Graphical)
-![Main Graph](docs/main_graph.PNG)
+![Main Graph](doc/main_graph.PNG)
 
 ### Booking – Detailed Menu
-![Booking Menu](docs/book_flight1.PNG)
+![Booking Menu](doc/book_flight1.PNG)
 
 ### Booking – Route Graph (Graphical)
-![Booking Graph](docs/book_flight2.PNG)
+![Booking Graph](doc/book_flight2.PNG)
 
 ---
 
