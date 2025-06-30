@@ -29,7 +29,7 @@ This project was developed as a semester project for **Data Structures** (CS2001
 - Filters and displays only the relevant flights accordingly
 - Preferred routes are visualized uniquely in the graph
 
-### ⏳ Layover Management (Queue)
+### Layover Management (Queue)
 - All layovers managed using custom **queue**
 - System ensures enough time between connecting flights
 - Layover info visualized with dashed lines and tooltips
@@ -71,25 +71,28 @@ This project was developed as a semester project for **Data Structures** (CS2001
 
 ---
 
-## 🖼Screenshots & Diagram
+## Screenshots
 
-### 🌍 Main Graph View
-![Graph](docs/graph_view.png)
+### Main Menu
+![Main Menu](docs/main_menu.PNG)
 
-### 🔍 Route Finder (A* Path)
-![Path](docs/pathfinding.png)
+### Main Flight Graph (Graphical)
+![Main Graph](docs/main_graph.PNG)
 
-### 📤 Booking Window
-![Booking](docs/booking.png)
+### Booking – Detailed Menu
+![Booking Menu](docs/book_flight1.PNG)
+
+### Booking – Route Graph (Graphical)
+![Booking Graph](docs/book_flight2.PNG)
 
 ---
 
-## 🛠️ How to Compile & Run
+## How to Compile & Run
 
 - Compile using any C++ compiler that supports SFML
 - Run directly from `main.cpp`
 - Ensure that `Flights.txt` and `HotelCharges_perday.txt` are placed correctly in the working directory
-
+- Make sure you have properly did the SFML setup in you compiler, otherwise it will gives SFML error.
 ---
 
 ## Contact
@@ -100,7 +103,7 @@ If you face any issues running the project or have questions:
 
 ---
 
-## 🏫 University & Course Information
+## University & Course Information
 
 - **Institution:** FAST NUCES Islamabad  
 - **Department:** Cyber Security 
